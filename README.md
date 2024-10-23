@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project includes such technologies: React, React-Flow, React Router Dom, TypeScript.
+I didn't use any additional libraries for the state/store, I think for this app - React state functionality - is enough.
+
 ## Available Scripts
 
 In the project directory, you can run:
