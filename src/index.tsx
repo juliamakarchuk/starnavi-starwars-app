@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
 } from 'react-router-dom';
 // Components
 import App from './navigation/App';
