@@ -1,0 +1,16 @@
+.text-node {
+  max-width: 190px;
+  border: 1px solid #eee;
+  padding: 12px;
+  border-radius: 5px;
+  background: white;
+  font-size: 14px;
+
+  label {
+    font-size: 12px;
+  }
+
+  span {
+    font-weight: 700;
+  }
+}
